@@ -1,11 +1,11 @@
 # Markets-Intelligence-Risk-Monitoring-Report
-Este repositorio contiene un ecosistema avanzado de **Inteligencia de Mercados** que automatiza la extracción de datos, el análisis de regímenes macroeconómicos y la generación de reportes ejecutivos en formato PDF[cite: 2171, 2172]. [cite_start]El proyecto integra métricas de volatilidad implícita, modelos de estrés y análisis de la curva de tasas para transformar datos crudos en *insights* estratégicos.
+Este repositorio contiene un ecosistema avanzado de **Inteligencia de Mercados** que automatiza la extracción de datos, el análisis de regímenes macroeconómicos y la generación de reportes ejecutivos en formato  proyecto integra métricas de volatilidad implícita, modelos de estrés y análisis de la curva de tasas para transformar datos crudos en *insights* estratégicos.
 🎯 **Objetivo:** Desarrollar una herramienta integral de monitoreo de riesgos y oportunidades tácticas que centralice la visión macro y el impacto de escenarios de estrés en capital institucional[..
 
 ---
 
 ## 📖 Extended Overview
-El sistema está diseñado para profesionales que requieren una visión técnica del mercado global[cite: 2173]. [cite_start]Mediante el uso de bibliotecas de manipulación de datos y maquetación de documentos (ReportLab), el motor genera reportes de 6 páginas que cubren desde el sentimiento del mercado (VIX) hasta proyecciones probabilísticas de precios mediante **Implied Cones**.
+El sistema está diseñado para profesionales que requieren una visión técnica del mercado global. Mediante el uso de bibliotecas de manipulación de datos y maquetación de documentos (ReportLab), el motor genera reportes de 6 páginas que cubren desde el sentimiento del mercado (VIX) hasta proyecciones probabilísticas de precios mediante **Implied Cones**.
 
 
 
