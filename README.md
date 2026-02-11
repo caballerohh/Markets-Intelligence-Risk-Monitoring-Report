@@ -21,9 +21,9 @@ El sistema está diseñado para profesionales que requieren una visión técnica
 ## 🔍 Assets & Indicators Analyzed
 El motor procesa un universo cruzado de activos para una visión holística:
 
-* [cite_start]**🚀 Equities & Sentiment:** S&P 500 (SPY) y el índice de volatilidad VIX[cite: 2177, 2182].
-* [cite_start]**🛡️ Fixed Income & Hedge:** US Treasuries (3M a 30Y), TLT (Bonos largos), IEF (Medio plazo) y TIP (Protección contra inflación)[cite: 2260, 2309].
-* [cite_start]**📊 Macro Proxies:** Dólar Americano (DXY) para medir las condiciones financieras globales[cite: 2176, 2177].
+* **🚀 Equities & Sentiment:** S&P 500 (SPY) y el índice de volatilidad VIX.
+* **🛡️ Fixed Income & Hedge:** US Treasuries (3M a 30Y), TLT (Bonos largos), IEF (Medio plazo) y TIP (Protección contra inflación).
+* **📊 Macro Proxies:** Dólar Americano (DXY) para medir las condiciones financieras globales.
 
 ---
 
